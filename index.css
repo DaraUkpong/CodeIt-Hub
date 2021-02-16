@@ -1,10 +1,11 @@
 html, body {
   margin: 0;
   padding: 0;
+  scroll-behaviour: smooth;
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: Nunito;
   font-weight: 100;
 }
 
