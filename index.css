@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+
 html, body {
   margin: 0;
   padding: 0;
@@ -5,7 +7,7 @@ html, body {
 }
 
 body {
-  font-family: Nunito;
+ 
   font-weight: 100;
 }
 
